@@ -36,7 +36,6 @@
   "name":"O jogo",
   "resources":[
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
-    {"id":{"name":"teste","path":"objects/teste/teste.yy",},},
     {"id":{"name":"rm_base_test","path":"rooms/rm_base_test/rm_base_test.yy",},},
     {"id":{"name":"spr_Player_Idle","path":"sprites/spr_Player_Idle/spr_Player_Idle.yy",},},
     {"id":{"name":"spr_Player_jump","path":"sprites/spr_Player_jump/spr_Player_jump.yy",},},
