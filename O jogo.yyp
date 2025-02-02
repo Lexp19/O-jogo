@@ -39,6 +39,7 @@
   "resources":[
     {"id":{"name":"fnt_botao","path":"fonts/fnt_botao/fnt_botao.yy",},},
     {"id":{"name":"obj_botoes","path":"objects/obj_botoes/obj_botoes.yy",},},
+    {"id":{"name":"obj_config","path":"objects/obj_config/obj_config.yy",},},
     {"id":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"rm_base_test","path":"rooms/rm_base_test/rm_base_test.yy",},},
