@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"PlayerSprites",
-    "path":"folders/Sprites/PlayerSprites.yy",
+    "path":"folders/Sons/Sprites/PlayerSprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
