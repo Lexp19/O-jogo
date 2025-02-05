@@ -11,6 +11,12 @@ target_yscale = escala_y;
 target_text_x = 1;
 target_text_y = 1;
 
+instance_deactivate_all(true);
+instance_activate_object(obj_inicial_botao);
+instance_activate_object(obj_config);
+instance_activate_object(obj_transicao);
 
 cor_texto = c_white;
 target_alpha = 1;
+
+
