@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_block",
-  "eventList":[],
+  "%Name":"obj_game_controller",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_block",
+  "name":"obj_game_controller",
   "overriddenProperties":[],
   "parent":{
-    "name":"Misc",
-    "path":"folders/Objetos/Misc.yy",
+    "name":"obj_Configs",
+    "path":"folders/Objetos/obj_Configs.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_block",
-    "path":"sprites/spr_block/spr_block.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
