@@ -46,9 +46,10 @@
     {"id":{"name":"obj_config","path":"objects/obj_config/obj_config.yy",},},
     {"id":{"name":"obj_inicial_botao","path":"objects/obj_inicial_botao/obj_inicial_botao.yy",},},
     {"id":{"name":"obj_opcao_botao","path":"objects/obj_opcao_botao/obj_opcao_botao.yy",},},
+    {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
-    {"id":{"name":"rm_base_test","path":"rooms/rm_base_test/rm_base_test.yy",},},
+    {"id":{"name":"rm_base","path":"rooms/rm_base/rm_base.yy",},},
     {"id":{"name":"rm_Hud_inicio","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},},
     {"id":{"name":"spr_barra_slide","path":"sprites/spr_barra_slide/spr_barra_slide.yy",},},
     {"id":{"name":"spr_bola_slide_hover","path":"sprites/spr_bola_slide_hover/spr_bola_slide_hover.yy",},},
@@ -63,7 +64,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_Hud_inicio","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},},
-    {"roomId":{"name":"rm_base_test","path":"rooms/rm_base_test/rm_base_test.yy",},},
+    {"roomId":{"name":"rm_base","path":"rooms/rm_base/rm_base.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

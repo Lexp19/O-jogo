@@ -7,7 +7,4 @@ if (keyboard_check_pressed(vk_escape)) {
 		instance_deactivate_object(obj_opcao_botao);
 		instance_activate_object(obj_inicial_botao);
 	}
-	else {
-		game_end();
-	}
 }
