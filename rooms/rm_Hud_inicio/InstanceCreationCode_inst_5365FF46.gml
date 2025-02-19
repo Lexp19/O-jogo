@@ -1,1 +1,1 @@
-room_destino = rm_base;
+//room_destino = rm_base_test;

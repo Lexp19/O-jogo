@@ -8,8 +8,8 @@
   "name":"obj_config",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Menu inicial",
+    "path":"folders/Objetos/Menu inicial.yy",
   },
   "parentObjectId":null,
   "persistent":true,

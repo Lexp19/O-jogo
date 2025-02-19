@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_barra_slide",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_rooms",
+  "eventList":[],
   "managed":true,
-  "name":"obj_barra_slide",
+  "name":"obj_rooms",
   "overriddenProperties":[],
   "parent":{
-    "name":"Opção",
-    "path":"folders/Objetos/Menu inicial/Opção.yy",
+    "name":"Misc",
+    "path":"folders/Objetos/Misc.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_barra_slide",
-    "path":"sprites/spr_barra_slide/spr_barra_slide.yy",
+    "name":"spr_trava_camera",
+    "path":"sprites/spr_trava_camera/spr_trava_camera.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

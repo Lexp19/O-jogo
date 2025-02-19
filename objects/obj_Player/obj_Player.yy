@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_barra_slide",
+  "%Name":"obj_Player",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_barra_slide",
+  "name":"obj_Player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Opção",
-    "path":"folders/Objetos/Menu inicial/Opção.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_barra_slide",
-    "path":"sprites/spr_barra_slide/spr_barra_slide.yy",
+    "name":"spr_Player_Idle_1",
+    "path":"sprites/spr_Player_Idle_1/spr_Player_Idle_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

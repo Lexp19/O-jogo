@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Opção",
-    "path":"folders/Objetos/Opção.yy",
+    "path":"folders/Objetos/Menu inicial/Opção.yy",
   },
   "parentObjectId":null,
   "persistent":false,

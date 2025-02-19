@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Hud_inicial",
-    "path":"folders/Sons/Sprites/Hud_sprites/Hud_inicial.yy",
+    "path":"folders/Sprites/Hud_sprites/Hud_inicial.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
