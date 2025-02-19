@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_Player_Move",
+  "%Name":"scr_Player_Base",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_Player_Move",
+  "name":"scr_Player_Base",
   "parent":{
     "name":"PlayerScripts",
     "path":"folders/Scripts/PlayerScripts.yy",
