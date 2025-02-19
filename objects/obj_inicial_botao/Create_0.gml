@@ -13,7 +13,7 @@ target_text_y = 1;
 
 instance_deactivate_all(true);
 instance_activate_object(obj_inicial_botao);
-instance_activate_object(obj_config);
+instance_activate_object(obj_game_controller);
 instance_activate_object(obj_transicao);
 
 cor_texto = c_white;

@@ -1,2 +1,2 @@
 
-barra_slideX = 0;
+barra_slideX = x;

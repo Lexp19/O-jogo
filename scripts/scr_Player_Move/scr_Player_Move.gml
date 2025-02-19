@@ -78,7 +78,7 @@ var y_offset = lengthdir_y(-20, image_angle);
 if _shoot and global.bullets > 0{
 
 	//AUDIO_PLAY_SOUND
-	with (instance_create_layer(_xx, y - 30, "shoot", obj_shoot)){
+	with (instance_create_layer(_xx, y - 30, "Shoot", obj_shoot)){
 		
 		//Redução balas
 		global.bullets --;

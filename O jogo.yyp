@@ -50,7 +50,6 @@
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
     {"id":{"name":"obj_bola_slide","path":"objects/obj_bola_slide/obj_bola_slide.yy",},},
     {"id":{"name":"obj_cam","path":"objects/obj_cam/obj_cam.yy",},},
-    {"id":{"name":"obj_config","path":"objects/obj_config/obj_config.yy",},},
     {"id":{"name":"obj_game_controller","path":"objects/obj_game_controller/obj_game_controller.yy",},},
     {"id":{"name":"obj_inicial_botao","path":"objects/obj_inicial_botao/obj_inicial_botao.yy",},},
     {"id":{"name":"obj_opcao_botao","path":"objects/obj_opcao_botao/obj_opcao_botao.yy",},},
