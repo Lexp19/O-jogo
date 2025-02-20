@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cam",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_inimigo_teste_vida",
+  "eventList":[],
   "managed":true,
-  "name":"obj_cam",
+  "name":"obj_inimigo_teste_vida",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_Configs",
-    "path":"folders/Objetos/obj_Configs.yy",
+    "name":"Enemies",
+    "path":"folders/Objetos/Enemies.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_inimigo_teste",
+    "path":"sprites/spr_inimigo_teste/spr_inimigo_teste.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

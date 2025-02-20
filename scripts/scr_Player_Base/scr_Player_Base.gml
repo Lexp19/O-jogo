@@ -1,7 +1,18 @@
 // Os recursos de script mudaram para a v2.3.0; veja
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 para obter mais informações
-function scr_Player_Move(){
+function scr_Player_Base(){
 	
+#region Configurações do jogo
+
+if(global.life <= 0){
+
+	game_restart();
+
+}
+
+#endregion
+
+
 #region Controles
 var _right, _left, _jump, _shoot;
 
@@ -78,7 +89,7 @@ var y_offset = lengthdir_y(-20, image_angle);
 if _shoot and global.bullets > 0{
 
 	//AUDIO_PLAY_SOUND
-	with (instance_create_layer(_xx, y - 30, "Shoot", obj_shoot)){
+	with (instance_create_layer(_xx, y - 30, "shoot", obj_shoot)){
 		
 		//Redução balas
 		global.bullets --;

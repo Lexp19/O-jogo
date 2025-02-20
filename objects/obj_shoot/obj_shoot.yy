@@ -3,7 +3,6 @@
   "%Name":"obj_shoot",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_shoot",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_shoot",
-    "path":"sprites/spr_shoot/spr_shoot.yy",
+    "name":"spr_shoot_1",
+    "path":"sprites/spr_shoot_1/spr_shoot_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
