@@ -1,3 +1,4 @@
+
 //Alvo
 global.cam_alvo = obj_Player;
 
