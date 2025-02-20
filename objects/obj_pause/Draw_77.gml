@@ -5,7 +5,7 @@ if (pause) {
 	surface_set_target(application_surface);
 	
 	if (surface_exists(pauseSuperf)) {
-		draw_surface_ext(pauseSuperf, 0, 0, 1, 1, 0, c_white, .5);
+		draw_surface_ext(pauseSuperf, 0, 0, 1, 1, 0, c_white, .2);
 	}
 	else {
 		pauseSuperf = surface_create(res_w, res_h);
@@ -19,14 +19,13 @@ if (pause) {
 if (keyboard_check_pressed(vk_escape)) {
 	if (!pause) {
 		
-		show_debug_message("oiii")
 		pause = true;
 		
 		instance_deactivate_all(true);
 		
 		pauseSuperf = surface_create(res_w, res_h);
 		surface_set_target(pauseSuperf);
-			draw_surface(application_surface, 0, 0);
+			draw_surface_ext(application_surface, 0, 0, 1, 1, 0, c_white, .3);
 		surface_reset_target();
 		
 		if (buffer_exists(pauseSuperfBuffer)) buffer_delete(pauseSuperfBuffer);

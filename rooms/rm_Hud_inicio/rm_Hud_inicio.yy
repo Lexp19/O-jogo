@@ -10,12 +10,12 @@
     {"name":"inst_5365FF46","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
     {"name":"inst_60F92B39","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
     {"name":"inst_770A0A1","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
-    {"name":"inst_3011152F","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
     {"name":"inst_2E53B163","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
     {"name":"inst_29FA354F","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
     {"name":"inst_46DC76FC","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
     {"name":"inst_12D4B9EA","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
     {"name":"inst_31604D06","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
+    {"name":"inst_3011152F","path":"rooms/rm_Hud_inicio/rm_Hud_inicio.yy",},
   ],
   "isDnd":false,
   "layers":[
