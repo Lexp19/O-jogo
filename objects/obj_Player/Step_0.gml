@@ -1,2 +1,2 @@
 //Movimentação Player Script
-	scr_Player_Base();
+	scr_Player_Move();

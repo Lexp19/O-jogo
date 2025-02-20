@@ -1,18 +1,7 @@
 // Os recursos de script mudaram para a v2.3.0; veja
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 para obter mais informações
-function scr_Player_Base(){
+function scr_Player_Move(){
 	
-#region Configurações do jogo
-
-if(global.life <= 0){
-
-	game_restart();
-
-}
-
-#endregion
-
-
 #region Controles
 var _right, _left, _jump, _shoot;
 

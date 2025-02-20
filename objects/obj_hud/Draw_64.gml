@@ -1,1 +1,0 @@
-draw_sprite_ext(spr_life,global.life, 60, 10, 2, 2, 0, c_white, 1)
